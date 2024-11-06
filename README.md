@@ -25,11 +25,11 @@
 </div>
 
 <div align='left' height='auto' width='100%'>
- <img align="right" width="450"
+ <img align="right" width="400"
    src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidlucas1&theme=midnight-purple&show_icons=true&border_color=4B0082&layout=compact" />
-  <img align="left" width="450" 
+  <img align="left" width="400" 
    src="https://github-readme-stats.vercel.app/api?username=davidlucas1&theme=midnight-purple&show_icons=true&border_color=4B0082&count_private=true" />
- <img align="center" width="450" 
+ <img align="center" width="400" 
    src="https://github-readme-streak-stats.herokuapp.com/?user=davidlucas1&theme=midnight-purple&hide_border=false&border_color=4B0082" />
 </div>
  
